@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3052691/screenshots/6178918/coding.gif">
 
 
-- 🌱 I’m currently learning **Machine Lwarning with Python**
+- 🌱 I’m currently learning **Machine Learning with Python**
 
 - 💬 Ask me about **C, Python**
 
