@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **C, Python**
 
-- 📫 How to reach me **shreyankbr2411@gmail.com**
+- 📫 How to reach me **shreyankbr@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
