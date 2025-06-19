@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Shreyank B R</h1>
 <h3 align="center">A Student Embarking On A Journey To Be An AI Domain Expert</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3052691/screenshots/6178918/coding.gif">
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP**
 
