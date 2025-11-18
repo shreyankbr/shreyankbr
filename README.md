@@ -6,7 +6,7 @@
 
 - 👨‍💻 My flagship projects are available at [https://huggingface.co/shreyankbr](https://huggingface.co/shreyankbr)
 
-- 💬 Ask me about **C, Python, Machine Learning, Prompts**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, Prompts**
 
 - 📫 How to reach me **shreyankbr@outlook.com**
 
