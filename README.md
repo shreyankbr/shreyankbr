@@ -13,6 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shreyankbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyankbr" height="30" width="40" /></a>
+<a href="https://huggingface.co/shreyankbr" target="blank"><img align="center" src="https://www.bing.com/ck/a?!&&p=8eec8b5115c5e735ad808a975807ec44fa5670ad2d1d51b10998afc7b07b8ffaJmltdHM9MTc2MzUxMDQwMA&ptn=3&ver=2&hsh=4&fclid=095eb4ea-165a-6737-3bb4-a24317c166bc&u=a1L2ltYWdlcy9zZWFyY2g_cT1odWdnaW5nK2ZhY2UrbG9nbyZpZD01MDgyNzU0M0QwQTQ4Qzg4RTdEMEYwRjNFMTZGM0E5QUYwMkQ5ODgzJkZPUk09SUFDRklS&ntb=1" alt="shreyankbr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
