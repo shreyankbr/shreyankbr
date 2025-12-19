@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, NLP, Transformers**
 
-- 👨‍💻 My flagship projects are available at [https://huggingface.co/shreyankbr](https://huggingface.co/shreyankbr)
+- 👨‍💻 Live Demo of my projects at [https://huggingface.co/shreyankbr](https://huggingface.co/shreyankbr)
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Prompts**
 
